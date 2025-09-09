@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sukjin`s%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Sukjin`s%20Github&fontSize=40)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrwls5661)](https://solved.ac/tjrwls5661)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukjin1234&layout=compact)
